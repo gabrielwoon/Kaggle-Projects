@@ -5,3 +5,4 @@ Kaggle Projects
 - Python
 - Pandas
 - Intro to Machine Learning
+- Intermediate Machine Learning
