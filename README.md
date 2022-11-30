@@ -7,3 +7,4 @@ Kaggle Projects
 - Data Visualization
 - Intro to Machine Learning
 - Intermediate Machine Learning
+- Intro to AI Ethics
