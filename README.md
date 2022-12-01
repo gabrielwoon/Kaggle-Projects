@@ -5,6 +5,7 @@ Kaggle Projects
 - Python
 - Pandas
 - Data Visualization
+- Data Cleaning
 - Intro to Machine Learning
 - Intermediate Machine Learning
 - Intro to AI Ethics
