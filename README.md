@@ -9,5 +9,6 @@ Kaggle Projects
 - Feature Engineering
 - Intro to Machine Learning
 - Intermediate Machine Learning
+- Intro to Deep Learning
 - Time Series
 - Intro to AI Ethics
