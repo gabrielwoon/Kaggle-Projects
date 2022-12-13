@@ -12,6 +12,7 @@ Kaggle Projects
 - Intro to Machine Learning
 - Intermediate Machine Learning
 - Intro to Deep Learning
+- Intro to Game AI & Reinforcement Learning
 - Computer Vision
 - Geospatial Analysis
 - Machine Learning Explainability
