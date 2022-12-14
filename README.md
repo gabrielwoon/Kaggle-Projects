@@ -7,6 +7,7 @@ Kaggle Projects
 - Data Visualization
 - Data Cleaning
 - Feature Engineering
+- Intro to SQL
 - Time Series
 - Intro to AI Ethics
 - Intro to Machine Learning
